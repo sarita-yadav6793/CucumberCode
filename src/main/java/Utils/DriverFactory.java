@@ -36,7 +36,7 @@ public class DriverFactory {
 			logger.info("---------------Driver Closed--------------");
 		}
 		catch(Exception e) {
-			System.out.println(e.getMessage());
+			logger.info(e.getMessage());
 		}
 		
 		

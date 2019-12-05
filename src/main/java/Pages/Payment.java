@@ -20,26 +20,37 @@ public class Payment extends Driver{
 	@FindBy(xpath="//a[@title='Back to orders']")
 	WebElement btnbackOrder;
 	
+	@FindBy(xpath="//*[@id='center_column']/div/text()[11]")
+	WebElement txtorderconfirmation;
+	
+	
 	// constructor of the class
 	public Payment() {
 		logger= Logger.getLogger(this.getClass());
-		cfl= new CommonFunctionsLibrary();
+		comfunctions= new CommonFunctionsLibrary();
 		PageFactory.initElements(driver, this);
 	}
 	
 	// click link pay by wire
 	public void selectPayByBankWire() {
-		cfl.clickButton(linkpaybybankwire);
+		comfunctions.clickButton(linkpaybybankwire);
 	}
 	
 	//click proceed to checkout
 	public void clickConfirm() {
-		cfl.clickButton(btnconfirmOrder);
+		comfunctions.clickButton(btnconfirmOrder);
 	}
 		
 	//click proceed to checkout
 	public void clickBackToOrders() {
-		cfl.clickButton(btnbackOrder);
+		comfunctions.clickButton(btnbackOrder);
+	}
+	
+	//get order number
+	public String orderNumber() {
+		String orderno= txtorderconfirmation.getAttribute("text");
+		System.out.println(orderno);
+		return orderno;
 	}
 		
 

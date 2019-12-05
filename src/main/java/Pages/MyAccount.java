@@ -17,13 +17,13 @@ public class MyAccount extends Driver{
 	// constructor of the class
 	public MyAccount() {
 		logger= Logger.getLogger(this.getClass());
-		cfl= new CommonFunctionsLibrary();
+		comfunctions= new CommonFunctionsLibrary();
 		PageFactory.initElements(driver, this);
 	}
 		
 	//click personal info
 	public void clickPersonalInfo() {
-		cfl.clickButton(btninfo);
+		comfunctions.clickButton(btninfo);
 	}
 		
 

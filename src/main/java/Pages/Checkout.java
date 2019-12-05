@@ -1,10 +1,6 @@
 package Pages;
 
-import java.util.concurrent.TimeUnit;
-
-import org.apache.log4j.BasicConfigurator;
 import org.apache.log4j.Logger;
-import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
@@ -27,18 +23,18 @@ public class Checkout extends Driver{
 	// constructor of the class
 	public Checkout() {		
 		logger= Logger.getLogger(this.getClass());
-		cfl= new CommonFunctionsLibrary();
+		comfunctions= new CommonFunctionsLibrary();
 		PageFactory.initElements(driver, this);
 	}
 	
 	//click proceed to checkout
 	public void clickProceedToCheckout() {
-		cfl.clickButton(btnptcout);
+		comfunctions.clickButton(btnptcout);
 	}
 	
 	//click proceed
 	public void clickProceed() {
-		cfl.clickButton(btncout);
+		comfunctions.clickButton(btncout);
 	}
 
 }		

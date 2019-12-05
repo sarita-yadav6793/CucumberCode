@@ -2,7 +2,6 @@ package Pages;
 
 import java.io.IOException;
 
-import org.apache.log4j.BasicConfigurator;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -73,40 +72,40 @@ public class CreateAccount extends Driver {
 	// constructor of the class
 	public CreateAccount() {
 		logger= Logger.getLogger(this.getClass());
-		cfl= new CommonFunctionsLibrary();
+		comfunctions= new CommonFunctionsLibrary();
 		PageFactory.initElements(driver, this);
 	}
 	
 	//enter Details to create account
 	public void enterTitleDetails() throws IOException {
-		cfl.selectRadio(radiomr);
-		cfl.enterTextInTextBox(txtfName, CommonFunctionsLibrary.readDataExcel("First Name"));
-		cfl.enterTextInTextBox(txtlName, CommonFunctionsLibrary.readDataExcel("Last Name"));
-		cfl.enterTextInTextBox(txtpass, CommonFunctionsLibrary.readDataExcel("Password"));
-		cfl.selectDDByValue(dddays, CommonFunctionsLibrary.readDataExcel("Date"));
-		cfl.selectDDByValue(ddmm, CommonFunctionsLibrary.readDataExcel("Month"));
-		cfl.selectDDByValue(ddyy, CommonFunctionsLibrary.readDataExcel("Year"));
+		comfunctions.selectRadio(radiomr);
+		comfunctions.enterTextInTextBox(txtfName, CommonFunctionsLibrary.readDataExcel("First Name"));
+		comfunctions.enterTextInTextBox(txtlName, CommonFunctionsLibrary.readDataExcel("Last Name"));
+		comfunctions.enterTextInTextBox(txtpass, CommonFunctionsLibrary.readDataExcel("Password"));
+		comfunctions.selectDDByValue(dddays, CommonFunctionsLibrary.readDataExcel("Date"));
+		comfunctions.selectDDByValue(ddmm, CommonFunctionsLibrary.readDataExcel("Month"));
+		comfunctions.selectDDByValue(ddyy, CommonFunctionsLibrary.readDataExcel("Year"));
 		
 		
 	}
 	
 	//enter address details
 	public void enterAddressDetails() throws IOException {
-		cfl.enterTextInTextBox(txtaddfName, CommonFunctionsLibrary.readDataExcel("Address First Name"));
-		cfl.enterTextInTextBox(txtaddLName, CommonFunctionsLibrary.readDataExcel("Address Last Name"));
-		cfl.enterTextInTextBox(txtcompany, CommonFunctionsLibrary.readDataExcel("Company"));
-		cfl.enterTextInTextBox(txtaddress, CommonFunctionsLibrary.readDataExcel("Address"));
-		cfl.enterTextInTextBox(txtcity, CommonFunctionsLibrary.readDataExcel("City"));
-		cfl.selectDDByText(ddstate, CommonFunctionsLibrary.readDataExcel("State"));
-		cfl.enterTextInTextBox(txtpincode, CommonFunctionsLibrary.readDataExcel("Zip"));
-		cfl.selectDDByText(ddctry, CommonFunctionsLibrary.readDataExcel("Country"));
-		cfl.enterTextInTextBox(txtmobile, CommonFunctionsLibrary.readDataExcel("Phone"));
-		cfl.enterTextInTextBox(txtalias, CommonFunctionsLibrary.readDataExcel("Alias"));
+		comfunctions.enterTextInTextBox(txtaddfName, CommonFunctionsLibrary.readDataExcel("Address First Name"));
+		comfunctions.enterTextInTextBox(txtaddLName, CommonFunctionsLibrary.readDataExcel("Address Last Name"));
+		comfunctions.enterTextInTextBox(txtcompany, CommonFunctionsLibrary.readDataExcel("Company"));
+		comfunctions.enterTextInTextBox(txtaddress, CommonFunctionsLibrary.readDataExcel("Address"));
+		comfunctions.enterTextInTextBox(txtcity, CommonFunctionsLibrary.readDataExcel("City"));
+		comfunctions.selectDDByText(ddstate, CommonFunctionsLibrary.readDataExcel("State"));
+		comfunctions.enterTextInTextBox(txtpincode, CommonFunctionsLibrary.readDataExcel("Zip"));
+		comfunctions.selectDDByText(ddctry, CommonFunctionsLibrary.readDataExcel("Country"));
+		comfunctions.enterTextInTextBox(txtmobile, CommonFunctionsLibrary.readDataExcel("Phone"));
+		comfunctions.enterTextInTextBox(txtalias, CommonFunctionsLibrary.readDataExcel("Alias"));
 	}
 	
 	// click register button
 	public void clickRegister() {
-		cfl.clickButton(btnRegister);
+		comfunctions.clickButton(btnRegister);
 	}
 	
 	

@@ -33,30 +33,30 @@ public class Authentication extends Driver{
 	// constructor of the class
 	public Authentication() {
 		logger= Logger.getLogger(this.getClass());
-		cfl= new CommonFunctionsLibrary();
+		comfunctions= new CommonFunctionsLibrary();
 		PageFactory.initElements(driver, this);
 	}
 	
 	//click create account
 	public void clickCreateAccount() {
-		cfl.clickButton(btnCreateAccount);
+		comfunctions.clickButton(btnCreateAccount);
 	}
 	
 	//enter email address
 	public void enterEmail(String email) throws IOException {
-		cfl.enterTextInTextBox(txtemail, email);
+		comfunctions.enterTextInTextBox(txtemail, email);
 	}
 	
 	//enter sign in email
 	public void SignEmail(String email, String pass) {
-		cfl.enterTextInTextBox(txtsignemail, email);
-		cfl.enterTextInTextBox(txtsignpass, pass);
+		comfunctions.enterTextInTextBox(txtsignemail, email);
+		comfunctions.enterTextInTextBox(txtsignpass, pass);
 		
 	}
 	
 	//click sign in
 	public void clickSignIn() {
-		cfl.clickButton(btnSignIn);
+		comfunctions.clickButton(btnSignIn);
 	}
 
 }

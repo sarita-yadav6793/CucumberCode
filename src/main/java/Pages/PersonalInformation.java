@@ -29,25 +29,25 @@ private Logger logger;
 	public PersonalInformation() {
 		
 		logger= Logger.getLogger(this.getClass());
-		cfl= new CommonFunctionsLibrary();
+		comfunctions= new CommonFunctionsLibrary();
 		PageFactory.initElements(driver, this);
 	}
 	
 	// enter changes
 	public String editDetails(String fname) {
-		cfl.enterTextInTextBox(txtfname, fname);
+		comfunctions.enterTextInTextBox(txtfname, fname);
 		return txtfname.getAttribute("value");
 		
 	}
 	
 	//enter password
 	public void enterPass(String pass) {
-		cfl.enterTextInTextBox(txtoldpass, pass);
+		comfunctions.enterTextInTextBox(txtoldpass, pass);
 	}
 	
 	//click save btn
 	public void clickSave() {
-		cfl.clickButton(btnSave);
+		comfunctions.clickButton(btnSave);
 	}
 
 }

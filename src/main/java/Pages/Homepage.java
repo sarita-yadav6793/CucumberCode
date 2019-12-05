@@ -1,8 +1,6 @@
 package Pages;
 
-import org.apache.log4j.BasicConfigurator;
 import org.apache.log4j.Logger;
-import org.apache.log4j.PropertyConfigurator;
 import org.junit.Assert;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -35,25 +33,25 @@ public class Homepage extends Driver{
 	// constructor of the class
 	public Homepage() {
 		logger= Logger.getLogger(this.getClass());
-		cfl= new CommonFunctionsLibrary();
+		comfunctions= new CommonFunctionsLibrary();
 		PageFactory.initElements(driver, this);
 	}
 	
 	// click Tshirts tab
 	public void clickTshirts() {
-		cfl.clickButton(tabTshirts);
+		comfunctions.clickButton(tabTshirts);
 	}
 	
 	
 	// click My account tab
 	public void clickMyAcct() {
-		cfl.clickButton(linkmyaccount);
+		comfunctions.clickButton(linkmyaccount);
 	}
 		
 		
 	// click My orders tab
 	public void clickMyOrders() {
-		cfl.clickButton(linkmyorders);
+		comfunctions.clickButton(linkmyorders);
 	}
 		
 	//verify user name
@@ -65,7 +63,7 @@ public class Homepage extends Driver{
 	
 	//click sign in
 	public void clickSignIn() {
-		cfl.clickButton(linksignin);
+		comfunctions.clickButton(linksignin);
 	}
 		
 

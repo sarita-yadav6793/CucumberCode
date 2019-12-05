@@ -21,7 +21,7 @@ public class OrderHistory extends Driver{
 	public OrderHistory() {
 		
 		logger= Logger.getLogger(this.getClass());
-		cfl= new CommonFunctionsLibrary();
+		comfunctions= new CommonFunctionsLibrary();
 		PageFactory.initElements(driver, this);
 	}
 	

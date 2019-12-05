@@ -19,13 +19,13 @@ public class Address extends Driver{
 	public Address() {
 		
 		logger= Logger.getLogger(this.getClass());
-		cfl= new CommonFunctionsLibrary();
+		comfunctions= new CommonFunctionsLibrary();
 		PageFactory.initElements(driver, this);
 	}
 	
 	// click proceed
 	public void clickProcced() {
-		cfl.clickButton(btnproceed);
+		comfunctions.clickButton(btnproceed);
 	}
 
 }

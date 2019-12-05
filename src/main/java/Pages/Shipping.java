@@ -20,18 +20,18 @@ public class Shipping extends Driver{
 	// constructor of the class
 	public Shipping() {	
 		logger= Logger.getLogger(this.getClass());
-		cfl= new CommonFunctionsLibrary();
+		comfunctions= new CommonFunctionsLibrary();
 		PageFactory.initElements(driver, this);
 	}
 	
 	// check terms
 	public void checkTerms() {
-		cfl.selectCheckBox(chkterms);
+		comfunctions.selectCheckBox(chkterms);
 	}
 	
 	//click proceed to checkout
 	public void clickProceed() {
-		cfl.clickButton(btnProceed);
+		comfunctions.clickButton(btnProceed);
 	}
 	
 	

@@ -10,7 +10,7 @@ import org.openqa.selenium.WebDriver;
 import DataProvider.ExcelFileReader;
 
 public class Driver {	
-	public static CommonFunctionsLibrary cfl;
+	public static CommonFunctionsLibrary comfunctions;
 	public ExcelFileReader efr;
 	public static WebDriver driver;
 	private Logger logger= Logger.getLogger(this.getClass());
@@ -26,7 +26,10 @@ public class Driver {
 		else {
 			logger.info("----------------Driver already initialised------------------");
 		}
-		String url=CommonFunctionsLibrary.readPropertiesData("URL");
+		
+	}
+	
+	public void loadApplication(String url) throws IOException {
 		driver.get(url);
 	}
 	

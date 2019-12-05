@@ -18,7 +18,7 @@ public class TShirts extends Driver{
 	// constructor of the class
 	public TShirts() {	
 		logger= Logger.getLogger(this.getClass());
-		cfl= new CommonFunctionsLibrary();
+		comfunctions= new CommonFunctionsLibrary();
 		PageFactory.initElements(driver, this);
 	}
 		

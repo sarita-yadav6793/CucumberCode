@@ -1,4 +1,4 @@
-package TestImplementation;
+package StepDefs;
 
 import java.io.File;
 import java.io.IOException;
@@ -34,6 +34,7 @@ public class Hooks{
 	public void initializeDriver() throws IOException {
 		PropertyConfigurator.configure(CommonFunctionsLibrary.readPropertiesData("log4jpath"));
 		d.initialiseDriver();	
+		d.loadApplication(CommonFunctionsLibrary.readPropertiesData("URL"));
 	}
 	
 	@After(order = 1)

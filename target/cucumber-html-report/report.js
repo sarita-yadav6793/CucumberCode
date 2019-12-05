@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 15207806592,
+  "duration": 15543487650,
   "status": "passed"
 });
 formatter.scenario({
@@ -42,40 +42,40 @@ formatter.match({
   "location": "PlaceOrder.user_is_on_Home_page()"
 });
 formatter.result({
-  "duration": 13416592044,
+  "duration": 15933640205,
   "status": "passed"
 });
 formatter.match({
   "location": "PlaceOrder.user_adds_T_Shirts_to_cart()"
 });
 formatter.result({
-  "duration": 6243432143,
+  "duration": 9066257590,
   "status": "passed"
 });
 formatter.match({
   "location": "PlaceOrder.place_order_after_making_payment()"
 });
 formatter.result({
-  "duration": 12749750474,
+  "duration": 12685865841,
   "status": "passed"
 });
 formatter.match({
   "location": "PlaceOrder.user_is_able_to_verify_order_in_order_history()"
 });
 formatter.result({
-  "duration": 1525917772,
+  "duration": 2389964395,
   "status": "passed"
 });
 formatter.after({
-  "duration": 115462,
+  "duration": 98784,
   "status": "passed"
 });
 formatter.after({
-  "duration": 74615319,
+  "duration": 375086918,
   "status": "passed"
 });
 formatter.before({
-  "duration": 11505482729,
+  "duration": 13451473080,
   "status": "passed"
 });
 formatter.scenario({
@@ -110,14 +110,14 @@ formatter.match({
   "location": "VerifyUpdatedDetails.user_is_on_Sign_In_page()"
 });
 formatter.result({
-  "duration": 5303887559,
+  "duration": 5704032271,
   "status": "passed"
 });
 formatter.match({
   "location": "VerifyUpdatedDetails.user_clicks_on_My_personal_info()"
 });
 formatter.result({
-  "duration": 1914527414,
+  "duration": 1823613153,
   "status": "passed"
 });
 formatter.match({
@@ -130,22 +130,22 @@ formatter.match({
   "location": "VerifyUpdatedDetails.changes_first_name_as(String)"
 });
 formatter.result({
-  "duration": 1746462376,
+  "duration": 2123696885,
   "status": "passed"
 });
 formatter.match({
   "location": "VerifyUpdatedDetails.user_should_be_able_to_validate_updated_information()"
 });
 formatter.result({
-  "duration": 47180720,
+  "duration": 66427361,
   "status": "passed"
 });
 formatter.after({
-  "duration": 34211,
+  "duration": 35494,
   "status": "passed"
 });
 formatter.after({
-  "duration": 2316359581,
+  "duration": 64175854,
   "status": "passed"
 });
 });

@@ -41,12 +41,12 @@ public class Hooks{
 	 if (scenario.isFailed()) {
 	 String screenshotName = scenario.getName().replaceAll(" ", "_");
 	 try {
-		 TakesScreenshot scrShot =((TakesScreenshot)Driver.driver);
-		 File sourcePath = scrShot.getScreenshotAs(OutputType.FILE);
+		 File sourcePath = ((TakesScreenshot)Driver.driver).getScreenshotAs(OutputType.FILE);
 		 File destinationPath = new File(System.getProperty("user.dir") + "/target/cucumber-reports/screenshots/" + screenshotName + ".png");
 		 Files.copy(sourcePath, destinationPath);   
 		 Reporter.addScreenCaptureFromPath(destinationPath.toString());
-	 } catch (IOException e) {
+	 } catch (Exception e) {
+		 e.printStackTrace();
 	 } 
 	 }
 	 }

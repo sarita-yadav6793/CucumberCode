@@ -1,124 +1,244 @@
-2019-12-05  09:52:10-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
-			2019-12-05  09:52:10-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
-			2019-12-05  09:52:45-main[ mainid]  INFO  Pages.FadedShirt:48 - Selected T-shirt color is Blue
-			2019-12-05  09:53:02-main[ mainid]  INFO  Pages.OrderHistory:31 - Order History table is present with orders
-			2019-12-05  09:53:02-main[ mainid]  INFO  Utils.Driver:35 - Utils.Driver------------Close Driver--------------
-			2019-12-05  09:53:02-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
-			2019-12-05  09:53:02-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
-			2019-12-05  09:53:02-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
-			2019-12-05  09:53:25-main[ mainid]  INFO  Pages.Homepage:63 - Updated information is verified
-			2019-12-05  09:53:25-main[ mainid]  INFO  Utils.Driver:35 - Utils.Driver------------Close Driver--------------
-			2019-12-05  09:53:25-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
-			2019-12-05  09:56:08-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
-			2019-12-05  09:56:08-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
-			2019-12-05  09:57:50-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
-			2019-12-05  09:57:50-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
-			2019-12-05  09:58:59-main[ mainid]  INFO  Utils.Driver:35 - Utils.Driver------------Close Driver--------------
-			2019-12-05  09:58:59-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
-			2019-12-05  09:58:59-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
-			2019-12-05  09:58:59-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
-			2019-12-05  10:00:39-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
-			2019-12-05  10:00:39-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
-			2019-12-05  10:01:47-main[ mainid]  INFO  Utils.Driver:35 - Utils.Driver------------Close Driver--------------
-			2019-12-05  10:01:47-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
-			2019-12-05  10:01:47-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
-			2019-12-05  10:01:47-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
-			2019-12-05  10:02:11-main[ mainid]  INFO  Pages.Homepage:63 - Updated information is verified
-			2019-12-05  10:02:11-main[ mainid]  INFO  Utils.Driver:35 - Utils.Driver------------Close Driver--------------
-			2019-12-05  10:02:11-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
-			2019-12-05  10:13:17-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
-			2019-12-05  10:13:17-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
-			2019-12-05  10:14:31-main[ mainid]  INFO  Utils.Driver:35 - Utils.Driver------------Close Driver--------------
-			2019-12-05  10:14:31-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
-			2019-12-05  10:14:31-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
-			2019-12-05  10:14:31-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
-			2019-12-05  10:14:51-main[ mainid]  INFO  Pages.Homepage:63 - Updated information is verified
-			2019-12-05  10:14:51-main[ mainid]  INFO  Utils.Driver:35 - Utils.Driver------------Close Driver--------------
-			2019-12-05  10:14:51-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
-			2019-12-05  10:19:59-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
-			2019-12-05  10:19:59-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
-			2019-12-05  10:21:09-main[ mainid]  INFO  Utils.Driver:35 - Utils.Driver------------Close Driver--------------
-			2019-12-05  10:21:09-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
-			2019-12-05  10:21:09-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
-			2019-12-05  10:21:09-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
-			2019-12-05  10:21:30-main[ mainid]  INFO  Pages.Homepage:63 - Updated information is verified
-			2019-12-05  10:21:30-main[ mainid]  INFO  Utils.Driver:35 - Utils.Driver------------Close Driver--------------
-			2019-12-05  10:21:30-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
-			2019-12-05  10:32:36-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
-			2019-12-05  10:32:36-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
-			2019-12-05  10:33:55-main[ mainid]  INFO  Utils.Driver:35 - Utils.Driver------------Close Driver--------------
-			2019-12-05  10:33:55-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
-			2019-12-05  10:33:55-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
-			2019-12-05  10:33:55-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
-			2019-12-05  10:34:06-main[ mainid]  INFO  Utils.Driver:35 - Utils.Driver------------Close Driver--------------
-			2019-12-05  10:34:20-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
-			2019-12-05  10:34:20-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
-			2019-12-05  10:35:00-main[ mainid]  INFO  Pages.FadedShirt:48 - Selected T-shirt color is Blue
-			2019-12-05  10:35:15-main[ mainid]  INFO  Pages.OrderHistory:31 - Order History table is present with orders
-			2019-12-05  10:35:15-main[ mainid]  INFO  Utils.Driver:35 - Utils.Driver------------Close Driver--------------
-			2019-12-05  10:35:16-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
-			2019-12-05  10:35:16-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
-			2019-12-05  10:35:16-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
-			2019-12-05  10:35:39-main[ mainid]  INFO  Pages.Homepage:63 - Updated information is verified
-			2019-12-05  10:35:39-main[ mainid]  INFO  Utils.Driver:35 - Utils.Driver------------Close Driver--------------
-			2019-12-05  10:35:39-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
-			2019-12-05  13:08:49-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
-			2019-12-05  13:08:49-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
-			2019-12-05  13:10:38-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
-			2019-12-05  13:10:38-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
-			2019-12-05  13:11:15-main[ mainid]  INFO  Pages.FadedShirt:44 - Selected T-shirt color is Blue
-			2019-12-05  13:11:31-main[ mainid]  INFO  Pages.OrderHistory:31 - Order History table is present with orders
-			2019-12-05  13:11:31-main[ mainid]  INFO  Utils.Driver:38 - Utils.Driver------------Close Driver--------------
-			2019-12-05  13:11:32-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
-			2019-12-05  13:11:32-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
-			2019-12-05  13:11:32-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
-			2019-12-05  13:16:31-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
-			2019-12-05  13:16:31-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
-			2019-12-05  13:17:04-main[ mainid]  INFO  Pages.FadedShirt:44 - Selected T-shirt color is Blue
-			2019-12-05  13:17:20-main[ mainid]  INFO  Pages.OrderHistory:31 - Order History table is present with orders
-			2019-12-05  13:17:20-main[ mainid]  INFO  Utils.Driver:38 - Utils.Driver------------Close Driver--------------
-			2019-12-05  13:17:20-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
-			2019-12-05  13:17:20-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
-			2019-12-05  13:17:20-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
-			2019-12-05  13:17:43-main[ mainid]  INFO  Pages.Homepage:61 - Updated information is verified
-			2019-12-05  13:21:47-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
-			2019-12-05  13:21:47-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
-			2019-12-05  13:22:20-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
-			2019-12-05  13:22:20-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
-			2019-12-05  13:22:57-main[ mainid]  INFO  Pages.FadedShirt:44 - Selected T-shirt color is Blue
-			2019-12-05  13:23:12-main[ mainid]  INFO  Utils.Driver:38 - Utils.Driver------------Close Driver--------------
-			2019-12-05  13:23:12-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
-			2019-12-05  13:23:12-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
-			2019-12-05  13:23:12-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
-			2019-12-05  13:23:35-main[ mainid]  INFO  Pages.Homepage:61 - Updated information is verified
-			2019-12-05  13:23:35-main[ mainid]  INFO  Utils.Driver:38 - Utils.Driver------------Close Driver--------------
-			2019-12-05  13:23:35-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
-			2019-12-05  13:25:07-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
-			2019-12-05  13:25:07-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
-			2019-12-05  13:25:43-main[ mainid]  INFO  Pages.FadedShirt:44 - Selected T-shirt color is Blue
-			2019-12-05  13:25:57-main[ mainid]  INFO  Utils.Driver:38 - Utils.Driver------------Close Driver--------------
-			2019-12-05  13:25:57-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
-			2019-12-05  13:25:57-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
-			2019-12-05  13:25:57-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
-			2019-12-05  13:26:20-main[ mainid]  INFO  Pages.Homepage:61 - Updated information is verified
-			2019-12-05  13:26:20-main[ mainid]  INFO  Utils.Driver:38 - Utils.Driver------------Close Driver--------------
-			2019-12-05  13:26:20-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
-			2019-12-05  13:43:24-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
-			2019-12-05  13:43:24-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
-			2019-12-05  13:44:00-main[ mainid]  INFO  Pages.FadedShirt:44 - Selected T-shirt color is Blue
-			2019-12-05  13:44:15-main[ mainid]  INFO  Pages.OrderHistory:31 - Order History table is present with orders
-			2019-12-05  13:44:15-main[ mainid]  INFO  Utils.Driver:38 - Utils.Driver------------Close Driver--------------
-			2019-12-05  13:44:15-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
-			2019-12-05  13:44:15-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
-			2019-12-05  13:44:15-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
-			2019-12-05  13:47:32-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
-			2019-12-05  13:47:32-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
-			2019-12-05  13:48:06-main[ mainid]  INFO  Pages.FadedShirt:44 - Selected T-shirt color is Blue
-			2019-12-05  13:48:20-main[ mainid]  INFO  Utils.Driver:38 - Utils.Driver------------Close Driver--------------
-			2019-12-05  13:48:20-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
-			2019-12-05  13:48:20-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
-			2019-12-05  13:48:20-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
-			2019-12-05  13:48:41-main[ mainid]  INFO  Pages.Homepage:61 - Updated information is verified
-			2019-12-05  13:48:41-main[ mainid]  INFO  Utils.Driver:38 - Utils.Driver------------Close Driver--------------
-			2019-12-05  13:48:44-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
+2019-12-11  13:35:10-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  13:35:10-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  13:36:25-main[ mainid]  INFO  Utils.Driver:38 - Utils.Driver------------Close Driver--------------
+			2019-12-11  13:36:25-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
+			2019-12-11  13:36:25-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  13:36:25-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  13:36:45-main[ mainid]  INFO  Pages.Homepage:61 - Updated information is verified
+			2019-12-11  13:36:45-main[ mainid]  INFO  Utils.Driver:38 - Utils.Driver------------Close Driver--------------
+			2019-12-11  13:36:45-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
+			2019-12-11  13:38:37-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  13:38:37-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  13:39:48-main[ mainid]  INFO  Utils.Driver:38 - Utils.Driver------------Close Driver--------------
+			2019-12-11  13:39:48-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
+			2019-12-11  13:39:48-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  13:39:48-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  13:40:08-main[ mainid]  INFO  Pages.Homepage:61 - Updated information is verified
+			2019-12-11  13:40:08-main[ mainid]  INFO  Utils.Driver:38 - Utils.Driver------------Close Driver--------------
+			2019-12-11  13:40:08-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
+			2019-12-11  17:51:47-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  17:51:47-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  17:53:28-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  17:53:28-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  17:54:21-main[ mainid]  INFO  Utils.Driver:38 - Utils.Driver------------Close Driver--------------
+			2019-12-11  17:54:23-main[ mainid]  INFO  Utils.DriverFactory:39 - chrome not reachable
+  (Session info: chrome=78.0.3904.108)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-BH7JOQO', ip: '192.168.0.108', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.108, chrome: {chromedriverVersion: 78.0.3904.105 (60e2d8774a81..., userDataDir: C:\Users\hp\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:55404}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 03f13dfdd73d9e562d160f259b52a0e7
+			2019-12-11  17:54:23-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  17:54:23-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  17:54:42-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  17:54:42-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  17:55:38-main[ mainid]  INFO  Utils.Driver:38 - Utils.Driver------------Close Driver--------------
+			2019-12-11  17:55:38-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
+			2019-12-11  17:55:38-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  17:55:38-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  17:56:00-main[ mainid]  INFO  Pages.Homepage:61 - Updated information is verified
+			2019-12-11  17:56:00-main[ mainid]  INFO  Utils.Driver:38 - Utils.Driver------------Close Driver--------------
+			2019-12-11  17:56:00-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
+			2019-12-11  17:57:53-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  17:57:53-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  17:59:46-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  17:59:46-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  18:01:48-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  18:01:48-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  18:02:43-main[ mainid]  INFO  Utils.Driver:38 - Utils.Driver------------Close Driver--------------
+			2019-12-11  18:02:43-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
+			2019-12-11  18:02:43-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  18:02:43-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  18:03:03-main[ mainid]  INFO  Pages.Homepage:61 - Updated information is verified
+			2019-12-11  18:03:03-main[ mainid]  INFO  Utils.Driver:38 - Utils.Driver------------Close Driver--------------
+			2019-12-11  18:03:03-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
+			2019-12-11  18:05:44-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  18:05:44-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  18:06:10-main[ mainid]  INFO  Pages.FadedShirt:44 - Selected T-shirt color is Blue
+			2019-12-11  18:06:25-main[ mainid]  INFO  Pages.OrderHistory:31 - Order History table is present with orders
+			2019-12-11  18:06:25-main[ mainid]  INFO  Utils.Driver:38 - Utils.Driver------------Close Driver--------------
+			2019-12-11  18:06:25-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
+			2019-12-11  18:06:25-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  18:06:25-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  18:06:45-main[ mainid]  INFO  Pages.Homepage:61 - Updated information is verified
+			2019-12-11  18:06:45-main[ mainid]  INFO  Utils.Driver:38 - Utils.Driver------------Close Driver--------------
+			2019-12-11  18:06:45-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
+			2019-12-11  18:21:23-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  18:21:23-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  18:21:52-main[ mainid]  INFO  Pages.FadedShirt:44 - Selected T-shirt color is Blue
+			2019-12-11  18:22:08-main[ mainid]  INFO  Pages.OrderHistory:33 - Order History table is present with orders
+			2019-12-11  18:22:08-main[ mainid]  INFO  Utils.Driver:38 - Utils.Driver------------Close Driver--------------
+			2019-12-11  18:22:08-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
+			2019-12-11  18:22:08-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  18:22:08-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  18:38:29-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  18:38:29-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  18:39:03-main[ mainid]  INFO  Pages.FadedShirt:44 - Selected T-shirt color is Blue
+			2019-12-11  18:39:20-main[ mainid]  INFO  Utils.Driver:38 - Utils.Driver------------Close Driver--------------
+			2019-12-11  18:39:20-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
+			2019-12-11  18:39:20-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  18:39:20-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  18:40:31-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  18:40:31-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  18:40:57-main[ mainid]  INFO  Pages.FadedShirt:44 - Selected T-shirt color is Blue
+			2019-12-11  18:41:10-main[ mainid]  INFO  Utils.Driver:38 - Utils.Driver------------Close Driver--------------
+			2019-12-11  18:41:10-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
+			2019-12-11  18:41:10-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  18:41:10-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  18:51:27-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  18:51:27-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  18:51:56-main[ mainid]  INFO  Pages.FadedShirt:44 - Selected T-shirt color is Blue
+			2019-12-11  18:52:15-main[ mainid]  INFO  Pages.OrderHistory:33 - Order History table is present with orders
+			2019-12-11  18:52:15-main[ mainid]  INFO  Utils.Driver:38 - Utils.Driver------------Close Driver--------------
+			2019-12-11  18:52:15-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
+			2019-12-11  18:52:15-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  18:52:15-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  18:52:26-main[ mainid]  INFO  Utils.Driver:38 - Utils.Driver------------Close Driver--------------
+			2019-12-11  18:52:27-main[ mainid]  INFO  Utils.DriverFactory:39 - chrome not reachable
+  (Session info: chrome=78.0.3904.108)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-BH7JOQO', ip: '192.168.0.108', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.108, chrome: {chromedriverVersion: 78.0.3904.105 (60e2d8774a81..., userDataDir: C:\Users\hp\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:62045}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 504df3f3ea15ba12fc24f78fe4966417
+			2019-12-11  19:02:42-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  19:02:42-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  19:03:10-main[ mainid]  INFO  Pages.FadedShirt:44 - Selected T-shirt color is Blue
+			2019-12-11  19:03:24-main[ mainid]  INFO  Pages.OrderHistory:43 - Order History table is present with orderXUAOUWQQA
+			2019-12-11  19:03:24-main[ mainid]  INFO  Pages.OrderHistory:43 - Order History table is present with orderGZWLCNURH
+			2019-12-11  19:03:24-main[ mainid]  INFO  Pages.OrderHistory:43 - Order History table is present with orderIOUQFEZWW
+			2019-12-11  19:03:24-main[ mainid]  INFO  Pages.OrderHistory:43 - Order History table is present with orderCUBXPGGAE
+			2019-12-11  19:03:24-main[ mainid]  INFO  Pages.OrderHistory:43 - Order History table is present with orderTJRZONINT
+			2019-12-11  19:03:25-main[ mainid]  INFO  Pages.OrderHistory:43 - Order History table is present with orderPGPBCOJSK
+			2019-12-11  19:03:25-main[ mainid]  INFO  Pages.OrderHistory:43 - Order History table is present with orderKZPKPSSXD
+			2019-12-11  19:03:25-main[ mainid]  INFO  Pages.OrderHistory:43 - Order History table is present with orderKRCJNJIXY
+			2019-12-11  19:03:25-main[ mainid]  INFO  Pages.OrderHistory:43 - Order History table is present with orderOHTZYBBVR
+			2019-12-11  19:03:25-main[ mainid]  INFO  Pages.OrderHistory:43 - Order History table is present with orderFZBHREPDJ
+			2019-12-11  19:03:25-main[ mainid]  INFO  Pages.OrderHistory:43 - Order History table is present with orderVOOGMVQNU
+			2019-12-11  19:03:25-main[ mainid]  INFO  Utils.Driver:38 - Utils.Driver------------Close Driver--------------
+			2019-12-11  19:03:25-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
+			2019-12-11  19:03:25-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  19:03:25-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  19:04:24-main[ mainid]  INFO  Utils.Driver:38 - Utils.Driver------------Close Driver--------------
+			2019-12-11  19:04:26-main[ mainid]  INFO  Utils.DriverFactory:39 - chrome not reachable
+  (Session info: chrome=78.0.3904.108)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-BH7JOQO', ip: '192.168.0.108', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.108, chrome: {chromedriverVersion: 78.0.3904.105 (60e2d8774a81..., userDataDir: C:\Users\hp\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:62739}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 27d9c7a86301ddb718296f4c62f725c5
+			2019-12-11  19:04:47-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  19:04:47-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  19:05:15-main[ mainid]  INFO  Pages.FadedShirt:44 - Selected T-shirt color is Blue
+			2019-12-11  19:05:39-main[ mainid]  INFO  Pages.OrderHistory:47 - Order History table is not present with orderSOWLONTEH
+			2019-12-11  19:05:39-main[ mainid]  INFO  Pages.OrderHistory:47 - Order History table is not present with orderXUAOUWQQA
+			2019-12-11  19:05:40-main[ mainid]  INFO  Pages.OrderHistory:47 - Order History table is not present with orderGZWLCNURH
+			2019-12-11  19:05:40-main[ mainid]  INFO  Pages.OrderHistory:47 - Order History table is not present with orderIOUQFEZWW
+			2019-12-11  19:05:40-main[ mainid]  INFO  Pages.OrderHistory:47 - Order History table is not present with orderCUBXPGGAE
+			2019-12-11  19:05:40-main[ mainid]  INFO  Pages.OrderHistory:47 - Order History table is not present with orderTJRZONINT
+			2019-12-11  19:05:40-main[ mainid]  INFO  Pages.OrderHistory:47 - Order History table is not present with orderPGPBCOJSK
+			2019-12-11  19:05:40-main[ mainid]  INFO  Pages.OrderHistory:47 - Order History table is not present with orderKZPKPSSXD
+			2019-12-11  19:05:40-main[ mainid]  INFO  Pages.OrderHistory:47 - Order History table is not present with orderKRCJNJIXY
+			2019-12-11  19:05:40-main[ mainid]  INFO  Pages.OrderHistory:47 - Order History table is not present with orderOHTZYBBVR
+			2019-12-11  19:05:40-main[ mainid]  INFO  Pages.OrderHistory:47 - Order History table is not present with orderFZBHREPDJ
+			2019-12-11  19:05:40-main[ mainid]  INFO  Pages.OrderHistory:47 - Order History table is not present with orderVOOGMVQNU
+			2019-12-11  19:05:40-main[ mainid]  INFO  Utils.Driver:38 - Utils.Driver------------Close Driver--------------
+			2019-12-11  19:05:40-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
+			2019-12-11  19:05:40-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  19:05:40-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  19:08:34-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  19:08:34-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  19:09:00-main[ mainid]  INFO  Pages.FadedShirt:44 - Selected T-shirt color is Blue
+			2019-12-11  19:09:15-main[ mainid]  INFO  Pages.OrderHistory:49 - Order History table is not present with order
+			2019-12-11  19:09:15-main[ mainid]  INFO  Utils.Driver:38 - Utils.Driver------------Close Driver--------------
+			2019-12-11  19:09:15-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
+			2019-12-11  19:09:15-main[ mainid]  INFO  Utils.Driver:20 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  19:09:15-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  19:13:28-main[ mainid]  INFO  Utils.Driver:18 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  19:13:28-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  19:13:56-main[ mainid]  INFO  Pages.FadedShirt:44 - Selected T-shirt color is Blue
+			2019-12-11  19:14:12-main[ mainid]  INFO  Pages.OrderHistory:49 - Order History table is not present with order
+			2019-12-11  19:14:12-main[ mainid]  INFO  Utils.Driver:36 - Utils.Driver------------Close Driver--------------
+			2019-12-11  19:14:12-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
+			2019-12-11  19:14:12-main[ mainid]  INFO  Utils.Driver:18 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  19:14:12-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  19:14:37-main[ mainid]  INFO  Pages.Homepage:61 - Updated information is verified
+			2019-12-11  19:14:37-main[ mainid]  INFO  Utils.Driver:36 - Utils.Driver------------Close Driver--------------
+			2019-12-11  19:14:37-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
+			2019-12-11  19:16:33-main[ mainid]  INFO  Utils.Driver:18 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  19:16:33-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  19:17:02-main[ mainid]  INFO  Pages.FadedShirt:44 - Selected T-shirt color is Blue
+			2019-12-11  19:17:19-main[ mainid]  INFO  Pages.OrderHistory:46 - Order History table is present with orderRMZAFUTCM
+			2019-12-11  19:17:19-main[ mainid]  INFO  Utils.Driver:36 - Utils.Driver------------Close Driver--------------
+			2019-12-11  19:17:19-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
+			2019-12-11  19:17:20-main[ mainid]  INFO  Utils.Driver:18 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  19:17:20-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  19:17:42-main[ mainid]  INFO  Pages.Homepage:61 - Updated information is verified
+			2019-12-11  19:17:42-main[ mainid]  INFO  Utils.Driver:36 - Utils.Driver------------Close Driver--------------
+			2019-12-11  19:17:42-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
+			2019-12-11  19:20:48-main[ mainid]  INFO  Utils.Driver:18 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  19:20:48-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  19:21:06-main[ mainid]  INFO  Utils.Driver:36 - Utils.Driver------------Close Driver--------------
+			2019-12-11  19:21:06-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
+			2019-12-11  19:21:06-main[ mainid]  INFO  Utils.Driver:18 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  19:21:06-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  19:21:20-main[ mainid]  INFO  Utils.Driver:36 - Utils.Driver------------Close Driver--------------
+			2019-12-11  19:21:21-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
+			2019-12-11  19:26:48-main[ mainid]  INFO  Utils.Driver:18 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  19:26:48-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  19:27:13-main[ mainid]  INFO  Utils.Driver:36 - Utils.Driver------------Close Driver--------------
+			2019-12-11  19:27:13-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
+			2019-12-11  19:27:13-main[ mainid]  INFO  Utils.Driver:18 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  19:27:13-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  19:27:35-main[ mainid]  INFO  Utils.Driver:36 - Utils.Driver------------Close Driver--------------
+			2019-12-11  19:27:35-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
+			2019-12-11  19:31:40-main[ mainid]  INFO  Utils.Driver:18 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  19:31:40-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  19:32:07-main[ mainid]  INFO  Pages.FadedShirt:44 - Selected T-shirt color is Blue
+			2019-12-11  19:32:22-main[ mainid]  INFO  Pages.OrderHistory:46 - Order History table is present with order GTQNQXXFP
+			2019-12-11  19:32:22-main[ mainid]  INFO  Utils.Driver:36 - Utils.Driver------------Close Driver--------------
+			2019-12-11  19:32:22-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
+			2019-12-11  19:32:22-main[ mainid]  INFO  Utils.Driver:18 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  19:32:22-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  19:33:34-main[ mainid]  INFO  Utils.Driver:36 - Utils.Driver------------Close Driver--------------
+			2019-12-11  19:33:34-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
+			2019-12-11  19:34:44-main[ mainid]  INFO  Utils.Driver:18 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  19:34:44-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  19:35:04-main[ mainid]  INFO  Utils.Driver:36 - Utils.Driver------------Close Driver--------------
+			2019-12-11  19:35:04-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
+			2019-12-11  19:35:04-main[ mainid]  INFO  Utils.Driver:18 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  19:35:04-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  19:35:23-main[ mainid]  INFO  Utils.Driver:36 - Utils.Driver------------Close Driver--------------
+			2019-12-11  19:35:24-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
+			2019-12-11  19:36:22-main[ mainid]  INFO  Utils.Driver:18 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  19:36:22-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  19:36:45-main[ mainid]  INFO  Pages.FadedShirt:44 - Selected T-shirt color is Blue
+			2019-12-11  19:37:00-main[ mainid]  INFO  Pages.OrderHistory:46 - Order History table is present with order DKQAANBKD
+			2019-12-11  19:37:00-main[ mainid]  INFO  Utils.Driver:36 - Utils.Driver------------Close Driver--------------
+			2019-12-11  19:37:01-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
+			2019-12-11  19:37:01-main[ mainid]  INFO  Utils.Driver:18 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  19:37:01-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  19:37:26-main[ mainid]  INFO  Pages.Homepage:61 - Updated information is verified
+			2019-12-11  19:37:26-main[ mainid]  INFO  Utils.Driver:36 - Utils.Driver------------Close Driver--------------
+			2019-12-11  19:37:26-main[ mainid]  INFO  Utils.DriverFactory:36 - ---------------Driver Closed--------------
+			2019-12-11  19:44:00-main[ mainid]  INFO  Utils.Driver:18 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  19:44:00-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  19:44:57-main[ mainid]  INFO  Utils.Driver:36 - Utils.Driver------------Close Driver--------------
+			2019-12-11  19:44:59-main[ mainid]  INFO  Utils.DriverFactory:39 - chrome not reachable
+  (Session info: chrome=78.0.3904.108)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-BH7JOQO', ip: '192.168.0.108', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.108, chrome: {chromedriverVersion: 78.0.3904.105 (60e2d8774a81..., userDataDir: C:\Users\hp\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:50061}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 1479a5dd8b4fbd13fe48a851f2061ee7
+			2019-12-11  19:44:59-main[ mainid]  INFO  Utils.Driver:18 - Utils.Driver--------------Initialise Driver--------------
+			2019-12-11  19:44:59-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2019-12-11  19:45:54-main[ mainid]  INFO  Utils.Driver:36 - Utils.Driver------------Close Driver--------------
+			2019-12-11  19:45:56-main[ mainid]  INFO  Utils.DriverFactory:39 - chrome not reachable
+  (Session info: chrome=78.0.3904.108)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-BH7JOQO', ip: '192.168.0.108', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.108, chrome: {chromedriverVersion: 78.0.3904.105 (60e2d8774a81..., userDataDir: C:\Users\hp\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:50143}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 605a730a7307f9d4857e2f62a32801c2
 			

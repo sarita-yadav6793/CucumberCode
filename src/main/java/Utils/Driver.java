@@ -7,11 +7,9 @@ import java.io.IOException;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 
-import DataProvider.ExcelFileReader;
 
 public class Driver {	
 	public static CommonFunctionsLibrary comfunctions;
-	public ExcelFileReader efr;
 	public static WebDriver driver;
 	private Logger logger= Logger.getLogger(this.getClass());
 	

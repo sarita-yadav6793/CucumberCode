@@ -16,25 +16,16 @@ public class VerifyUpdatedDetailsSteps {
 	PersonalInformation perinfo= new PersonalInformation();
 	public static String edited_name= null;
 	
-	@Given("^User is on Sign In page$")
-	public void signIn() throws Throwable {
-		hpage.clickSignIn();
-		auth.SignEmail((CommonFunctionsLibrary.readDataExcel("Email")+"@gmail.com"), CommonFunctionsLibrary.readDataExcel("Password"));
-		auth.clickSignIn();
-		
-	}
-
-	@When("^User clicks on My personal info$")
-	public void clickPersonalInfo() throws Throwable {
+	@Given("^User navigate to personal info$")
+	public void user_navigate_to_personal_info() throws Throwable {
 		myacct.clickPersonalInfo();
-	    
 	}
 
-	@When("^changes first name as \"([^\"]*)\"$")
-	public void editFirstName(String fname) throws Throwable {
-	  edited_name= perinfo.editDetails(fname);
-	  perinfo.enterPass(CommonFunctionsLibrary.readDataExcel("Password"));
-	  perinfo.clickSave();
+	@When("^User changes first name as \"([^\"]*)\"$")
+	public void user_changes_first_name_as(String fname) throws Throwable {
+		 edited_name= perinfo.editDetails(fname);
+		 perinfo.enterPass(CommonFunctionsLibrary.readData("Password"));
+		 perinfo.clickSave();
 	}
 
 	@Then("^User should be able to validate updated information$")

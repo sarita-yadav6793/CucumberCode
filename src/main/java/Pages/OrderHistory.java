@@ -1,8 +1,12 @@
 package Pages;
 
+import java.util.List;
+
 import org.apache.log4j.Logger;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.FindBys;
 import org.openqa.selenium.support.PageFactory;
 
 import Utils.CommonFunctionsLibrary;
@@ -14,8 +18,10 @@ public class OrderHistory extends Driver{
 	@FindBy(id="order-list")
 	WebElement tblOrderList;
 	
-	@FindBy(xpath="//table[@id='order-list']/tbody/tr")
-	WebElement tblRows;
+	@FindBys(@FindBy(xpath="//table[@id='order-list']/tbody/tr"))
+	List<WebElement> tblRows;
+	
+	
 	
 	// constructor of the class
 	public OrderHistory() {
@@ -26,13 +32,23 @@ public class OrderHistory extends Driver{
 	}
 	
 	//verify order history table
-	public void verifyOrder() {
-		if(tblOrderList.isDisplayed()  && tblRows.isDisplayed()) {
-			logger.info("Order History table is present with orders");
-			
-		}else {
-			logger.info("Order History table is not present with orders");
+	public void verifyOrder(String order_txt) {
+		boolean flag= false;
+		String order_no=null;
+		for(int i=1;i<=tblRows.size();i++) {
+			order_no= driver.findElement(By.xpath("//table[@id='order-list']/tbody/tr["+i+"]/td[1]")).getText();
+			if(order_txt.contains(order_no)) {
+				flag=true;
+				break;
+			}
 		}
+			if(flag==true) {
+				logger.info("Order History table is present with order " + order_no);
+			}
+			else {
+				logger.info("Order History table is not present with order" );
+			
+			}
+		
 	}
-
 }

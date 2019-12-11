@@ -15,7 +15,7 @@ import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		features="resources/Features",
+		features="src/test/java/Features",
 		glue= {"StepDefs"},
 		tags= {"@End2End"},
 		plugin = {"html:target/cucumber-html-report", "com.cucumber.listener.ExtentCucumberFormatter:target/cucumber-reports/report.html"},

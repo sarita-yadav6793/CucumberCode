@@ -47,6 +47,7 @@ public class Authentication extends Driver{
 		comfunctions.enterTextInTextBox(txtemail, email);
 	}
 	
+	
 	//enter sign in email
 	public void SignEmail(String email, String pass) {
 		comfunctions.enterTextInTextBox(txtsignemail, email);

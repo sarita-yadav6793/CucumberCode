@@ -68,39 +68,11 @@ public class CreateAccount extends Driver {
 	WebElement btnRegister;
 	
 	
-	
 	// constructor of the class
 	public CreateAccount() {
 		logger= Logger.getLogger(this.getClass());
 		comfunctions= new CommonFunctionsLibrary();
 		PageFactory.initElements(driver, this);
-	}
-	
-	//enter Details to create account
-	public void enterTitleDetails() throws IOException {
-		comfunctions.selectRadio(radiomr);
-		comfunctions.enterTextInTextBox(txtfName, CommonFunctionsLibrary.readDataExcel("First Name"));
-		comfunctions.enterTextInTextBox(txtlName, CommonFunctionsLibrary.readDataExcel("Last Name"));
-		comfunctions.enterTextInTextBox(txtpass, CommonFunctionsLibrary.readDataExcel("Password"));
-		comfunctions.selectDDByValue(dddays, CommonFunctionsLibrary.readDataExcel("Date"));
-		comfunctions.selectDDByValue(ddmm, CommonFunctionsLibrary.readDataExcel("Month"));
-		comfunctions.selectDDByValue(ddyy, CommonFunctionsLibrary.readDataExcel("Year"));
-		
-		
-	}
-	
-	//enter address details
-	public void enterAddressDetails() throws IOException {
-		comfunctions.enterTextInTextBox(txtaddfName, CommonFunctionsLibrary.readDataExcel("Address First Name"));
-		comfunctions.enterTextInTextBox(txtaddLName, CommonFunctionsLibrary.readDataExcel("Address Last Name"));
-		comfunctions.enterTextInTextBox(txtcompany, CommonFunctionsLibrary.readDataExcel("Company"));
-		comfunctions.enterTextInTextBox(txtaddress, CommonFunctionsLibrary.readDataExcel("Address"));
-		comfunctions.enterTextInTextBox(txtcity, CommonFunctionsLibrary.readDataExcel("City"));
-		comfunctions.selectDDByText(ddstate, CommonFunctionsLibrary.readDataExcel("State"));
-		comfunctions.enterTextInTextBox(txtpincode, CommonFunctionsLibrary.readDataExcel("Zip"));
-		comfunctions.selectDDByText(ddctry, CommonFunctionsLibrary.readDataExcel("Country"));
-		comfunctions.enterTextInTextBox(txtmobile, CommonFunctionsLibrary.readDataExcel("Phone"));
-		comfunctions.enterTextInTextBox(txtalias, CommonFunctionsLibrary.readDataExcel("Alias"));
 	}
 	
 	// click register button

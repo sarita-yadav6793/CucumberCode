@@ -20,7 +20,7 @@ public class Payment extends Driver{
 	@FindBy(xpath="//a[@title='Back to orders']")
 	WebElement btnbackOrder;
 	
-	@FindBy(xpath="//*[@id='center_column']/div/text()[11]")
+	@FindBy(xpath="//*[@id='center_column']/div")
 	WebElement txtorderconfirmation;
 	
 	
@@ -48,8 +48,7 @@ public class Payment extends Driver{
 	
 	//get order number
 	public String orderNumber() {
-		String orderno= txtorderconfirmation.getAttribute("text");
-		System.out.println(orderno);
+		String orderno= txtorderconfirmation.getAttribute("textContent");
 		return orderno;
 	}
 		

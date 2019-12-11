@@ -12,8 +12,6 @@ import org.openqa.selenium.WebDriver;
 import com.aventstack.extentreports.model.ScreenCapture;
 import com.cucumber.listener.Reporter;
 import com.google.common.io.Files;
-
-import DataProvider.ExcelFileReader;
 import Utils.CommonFunctionsLibrary;
 import Utils.Driver;
 import Utils.DriverFactory;
@@ -25,7 +23,6 @@ public class Hooks{
 	
 	//public static WebDriver driver;
 	public static CommonFunctionsLibrary cfl;
-	public ExcelFileReader efr;
 	private Logger logger= Logger.getLogger(this.getClass());
 	Driver d= new Driver();
 	

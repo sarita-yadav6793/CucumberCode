@@ -8,13 +8,10 @@ import java.util.concurrent.TimeUnit;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.*;
 import org.openqa.selenium.support.ui.*;
-
-import DataProvider.ExcelFileReader;
 import DataProvider.PropertiesFileReader;
 
 public class CommonFunctionsLibrary extends Driver{
 	private Logger logger;	
-	static ExcelFileReader efr= new ExcelFileReader();
 	static PropertiesFileReader pfr = new PropertiesFileReader();
 	
 	public CommonFunctionsLibrary() {
@@ -67,21 +64,20 @@ public class CommonFunctionsLibrary extends Driver{
 			select.selectByVisibleText(txt);
 		}
 	
-	//read value from excel
-		public static String readDataExcel(String key) throws IOException{
-			Map<String, String> m = efr.readExcel().get("DataSheet");
-			String value = m.get(key);
+		//retrieve value from default properties file
+		public static String readPropertiesData(String key) throws IOException {
 			
-			return value;
+			String val= pfr.readDefaultProperties(key);
+			return val;
 			
 		}
 		
-		//retrieve value from properties file
-		public static String readPropertiesData(String key) throws IOException {
-			
-			String val= pfr.readProperties(key);
+		//retrieve value from data properties file
+		public static String readData(String key) throws IOException {
+					
+			String val= pfr.readPropData(key);
 			return val;
-			
+					
 		}
 		
 		//generate random number

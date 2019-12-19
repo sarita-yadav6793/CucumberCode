@@ -32,7 +32,7 @@ public class DriverFactory {
 	
 	public static void closeDriver(WebDriver driver) {
 		try {
-			driver.close();
+			driver.quit();
 			logger.info("---------------Driver Closed--------------");
 		}
 		catch(Exception e) {

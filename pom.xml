@@ -46,13 +46,6 @@
 	    <version>1.2.5</version>
 	</dependency>
 
-	<!-- https://mvnrepository.com/artifact/info.cukes/cucumber-core -->
-	<dependency>
-	    <groupId>info.cukes</groupId>
-	    <artifactId>cucumber-core</artifactId>
-	    <version>1.2.5</version>
-	</dependency>
-
 	<!-- https://mvnrepository.com/artifact/info.cukes/cucumber-jvm-deps -->
 	<dependency>
 	    <groupId>info.cukes</groupId>
